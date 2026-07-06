@@ -51,3 +51,9 @@ Frontend Developer • Engineering Student • Always Learning 🚀
 💰 Expense Tracker
 
 More exciting projects coming soon...
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushantsonawanex1-ui/sushantsonawanex1-ui/output/github-contribution-grid-snake.svg" />
+</p>
