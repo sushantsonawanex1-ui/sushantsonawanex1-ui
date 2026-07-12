@@ -14,7 +14,9 @@ Frontend Developer • Engineering Student • Always Learning 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=sushantsonawanex1-ui&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsonawanex1-ui&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushantsonawanex1-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 ## 👨‍💻 About Me
