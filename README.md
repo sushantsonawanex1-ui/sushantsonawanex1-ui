@@ -8,17 +8,6 @@ Frontend Developer • Engineering Student • Always Learning 🚀
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Frontend+Developer;Building+Awesome+Projects;Learning+Something+New+Everyday!" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantsonawanex1-ui&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsonawanex1-ui&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantsonawanex1-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
----
-
 ## 👨‍💻 About Me
 
 🎓 Engineering Student
