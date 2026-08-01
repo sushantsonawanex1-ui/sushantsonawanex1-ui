@@ -1,0 +1,114 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="900" height="700" rx="25" fill="#0D1117"/>
+
+<rect x="25" y="25" width="850" height="650" rx="18" fill="#161B22" stroke="#30363D"/>
+
+<text x="60" y="75"
+font-size="32"
+fill="#58A6FF"
+font-family="Segoe UI"
+font-weight="bold">
+📬 New Message
+</text>
+
+<!-- Name -->
+
+<text x="60" y="135"
+fill="white"
+font-size="22"
+font-family="Segoe UI">
+Your Name
+</text>
+
+<rect
+x="60"
+y="150"
+width="780"
+height="55"
+rx="10"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<!-- Email -->
+
+<text
+x="60"
+y="255"
+fill="white"
+font-size="22"
+font-family="Segoe UI">
+Your Email
+</text>
+
+<rect
+x="60"
+y="270"
+width="780"
+height="55"
+rx="10"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<!-- Subject -->
+
+<text
+x="60"
+y="375"
+fill="white"
+font-size="22"
+font-family="Segoe UI">
+Subject
+</text>
+
+<rect
+x="60"
+y="390"
+width="780"
+height="55"
+rx="10"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<!-- Message -->
+
+<text
+x="60"
+y="495"
+fill="white"
+font-size="22"
+font-family="Segoe UI">
+Message
+</text>
+
+<rect
+x="60"
+y="510"
+width="780"
+height="95"
+rx="10"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<!-- Button -->
+
+<rect
+x="330"
+y="625"
+width="240"
+height="48"
+rx="10"
+fill="#2EA043"/>
+
+<text
+x="450"
+y="656"
+font-size="22"
+fill="white"
+text-anchor="middle"
+font-family="Segoe UI"
+font-weight="bold">
+Submit
+</text>
+
+</svg>
