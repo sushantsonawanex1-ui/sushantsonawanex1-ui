@@ -68,3 +68,10 @@
 
 ---
 
+---
+
+# 📬 Contact Me
+
+<p align="center">
+  <img src="./assets/contact-card.svg" width="900" alt="Contact Card"/>
+</p>
