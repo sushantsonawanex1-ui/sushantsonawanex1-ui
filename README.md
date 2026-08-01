@@ -1,43 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sushant Sonawane</h1>
+<div align="center">
 
-<h3 align="center">
-🐍 Python Developer • Problem Solver • Building Intelligent Applications
-</h3>
+# 👋 Hi, I'm Sushant Sonawane
+
+### 🐍 Python Developer • Problem Solver • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Developer;Building+AI+Applications;Open+Source+Learner;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=sushantsonawanex1-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 🚀 Who am I?
+
+- 🎓 Engineering Student
+- 🐍 Passionate Python Developer
+- 🤖 Currently building AI-powered applications
+- 🌱 Learning Data Structures, AI & Web Development
+- 💡 Love solving real-world problems with code
+- 🎯 Goal: Become a Full Stack AI Developer
+- ⚡ Fun Fact: I enjoy turning ideas into useful software.
+
+<br clear="right"/>
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=;Automation+Projects;Open+Source+Learner;Always+Learning+New+Things" />
-</p>
 
-## 👨‍💻 About Me
-
-🎓 Engineering Student
-
-🐍 Aspiring Python Developer
-
-🧠 Solving Problems with Python
-
-🤖 Currently Building My Own AI Assistant
-
-🚀 Learning Something New Every Day
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,git,github,vscode,figma,mysql" />
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Currently Learning
 
-🧮 Calculator
+<p align="center">
 
-☁️ Weather App
+<img src="https://skillicons.dev/icons?i=django,mongodb,tailwind,tensorflow" />
 
-✅ Todo App
+</p>
 
-💰 Expense Tracker
+---
 
-More exciting projects coming soon...
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushantsonawanex1-ui&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsonawanex1-ui&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sushantsonawanex1-ui&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
