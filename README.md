@@ -92,3 +92,5 @@ ROLE         Python Developer
 FOCUS        AI + Software
 MODE         BUILDING 🚀
 
+
+
